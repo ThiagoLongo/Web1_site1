@@ -1,2 +1,3 @@
 # Web1_site1
-Created with CodeSandbox
+Primeiro site criado na faculdade
+Código feito com CodeSandbox
